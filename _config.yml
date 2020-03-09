@@ -282,8 +282,8 @@ reward:
 # Usage: `Key: permalink || icon` (Font Awesome)
 follow_me:
   Twitter: https://twitter.com/just4liop || twitter
-  Telegram: https://t.me/channel_name || telegram
-  WeChat: /images/wechat_channel.jpg || wechat
+  # Telegram: https://t.me/channel_name || telegram
+  # WeChat: /images/wechat_channel.jpg || wechat
   # RSS: /atom.xml || rss
 
 # Related popular posts
@@ -597,8 +597,8 @@ comments:
 
 # Disqus
 disqus:
-  enable: false
-  shortname:
+  enable: true
+  shortname: disqus_l9dk6RUQtn
   count: true
   #post_meta_order: 0
 
