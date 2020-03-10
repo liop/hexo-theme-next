@@ -598,7 +598,7 @@ comments:
 # Disqus
 disqus:
   enable: true
-  shortname: disqus_l9dk6RUQtn
+  shortname: liop-github-io
   count: true
   #post_meta_order: 0
 
